@@ -1,0 +1,32 @@
+{ "timestamp":"2024-05-27T14:19:29Z", "event":"ShipLocker", "Items":[ 
+{ "Name":"insightdatabank", "Name_Localised":"Insight Data Bank", "OwnerID":0, "MissionID":964709916, "Count":1 }, 
+{ "Name":"largecapacitypowerregulator", "Name_Localised":"Power Regulator", "OwnerID":0, "MissionID":964711598, "Count":1 }, 
+{ "Name":"largecapacitypowerregulator", "Name_Localised":"Power Regulator", "OwnerID":0, "MissionID":964806519, "Count":1 }, 
+{ "Name":"chemicalsample", "Name_Localised":"Chemical Sample", "OwnerID":0, "Count":1 }, 
+{ "Name":"inertiacanister", "Name_Localised":"Inertia Canister", "OwnerID":0, "Count":1 }, 
+{ "Name":"compactlibrary", "Name_Localised":"Compact Library", "OwnerID":0, "Count":1 }, 
+{ "Name":"infinity", "OwnerID":0, "Count":1 }, 
+{ "Name":"insightentertainmentsuite", "Name_Localised":"Insight Entertainment Suite", "OwnerID":0, "Count":1 }, 
+{ "Name":"nutritionalconcentrate", "Name_Localised":"Nutritional Concentrate", "OwnerID":0, "Count":2 }, 
+{ "Name":"personaldocuments", "Name_Localised":"Personal Documents", "OwnerID":0, "Count":2 }, 
+{ "Name":"universaltranslator", "Name_Localised":"Universal Translator", "OwnerID":0, "Count":3 }, 
+{ "Name":"degradedpowerregulator", "Name_Localised":"Degraded Power Regulator", "OwnerID":0, "Count":2 }
+ ], "Components":[ 
+{ "Name":"circuitswitch", "Name_Localised":"Circuit Switch", "OwnerID":0, "Count":2 }, 
+{ "Name":"epoxyadhesive", "Name_Localised":"Epoxy Adhesive", "OwnerID":0, "Count":1 }, 
+{ "Name":"memorychip", "Name_Localised":"Memory Chip", "OwnerID":0, "Count":2 }, 
+{ "Name":"microsupercapacitor", "Name_Localised":"Micro Supercapacitor", "OwnerID":0, "Count":1 }, 
+{ "Name":"microtransformer", "Name_Localised":"Micro Transformer", "OwnerID":0, "Count":1 }, 
+{ "Name":"transmitter", "OwnerID":0, "Count":1 }, 
+{ "Name":"ionbattery", "Name_Localised":"Ion Battery", "OwnerID":0, "Count":1 }
+ ], "Consumables":[ 
+{ "Name":"healthpack", "Name_Localised":"Medkit", "OwnerID":0, "Count":1 }, 
+{ "Name":"energycell", "Name_Localised":"Energy Cell", "OwnerID":0, "Count":2 }, 
+{ "Name":"amm_grenade_emp", "Name_Localised":"Shield Disruptor", "OwnerID":0, "Count":1 }, 
+{ "Name":"amm_grenade_shield", "Name_Localised":"Shield Projector", "OwnerID":0, "Count":1 }
+ ], "Data":[ 
+{ "Name":"censusdata", "Name_Localised":"Census Data", "OwnerID":0, "Count":1 }, 
+{ "Name":"conflicthistory", "Name_Localised":"Conflict History", "OwnerID":0, "Count":1 }, 
+{ "Name":"riskassessments", "Name_Localised":"Risk Assessments", "OwnerID":0, "Count":1 }, 
+{ "Name":"visitorregister", "Name_Localised":"Visitor Register", "OwnerID":0, "Count":1 }
+ ] }

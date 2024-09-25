@@ -1,0 +1,12 @@
+{ "timestamp":"2024-05-27T14:12:39Z", "event":"Backpack", "Items":[ 
+
+ ], "Components":[ 
+
+ ], "Consumables":[ 
+{ "Name":"healthpack", "Name_Localised":"Medkit", "OwnerID":0, "Count":1 }, 
+{ "Name":"energycell", "Name_Localised":"Energy Cell", "OwnerID":0, "Count":2 }, 
+{ "Name":"amm_grenade_emp", "Name_Localised":"Shield Disruptor", "OwnerID":0, "Count":1 }, 
+{ "Name":"amm_grenade_shield", "Name_Localised":"Shield Projector", "OwnerID":0, "Count":1 }
+ ], "Data":[ 
+
+ ] }

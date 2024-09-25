@@ -1,0 +1,4 @@
+{ "timestamp":"2024-05-20T18:27:53Z", "event":"Market", "MarketID":3709149696, "StationName":"TBN-22H", "StationType":"FleetCarrier", "CarrierDockingAccess":"all", "StarSystem":"Aphra", "Items":[ 
+{ "id":128673876, "Name":"$unknownartifact2_name;", "Name_Localised":"Thargoid Probe", "Category":"$MARKET_category_salvage;", "Category_Localised":"Salvage", "BuyPrice":443535, "SellPrice":0, "MeanPrice":0, "StockBracket":0, "DemandBracket":0, "Stock":0, "Demand":0, "Consumer":false, "Producer":false, "Rare":false }, 
+{ "id":128924334, "Name":"$agronomictreatment_name;", "Name_Localised":"Agronomic Treatment", "Category":"$MARKET_category_chemicals;", "Category_Localised":"Chemicals", "BuyPrice":14482, "SellPrice":0, "MeanPrice":0, "StockBracket":0, "DemandBracket":0, "Stock":0, "Demand":0, "Consumer":false, "Producer":false, "Rare":false }
+ ] }
